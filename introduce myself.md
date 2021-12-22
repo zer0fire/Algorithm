@@ -318,8 +318,11 @@ Business English: How to write a formal Email ? - Grace的文章 - 知乎专栏
 
 
 Firstly, thank you for your interview
-It's my great pleasure to have this opportunity
-My name is wm, I've graduated by IM University of Tech
-I majored in IOT and I am confident that I am qualified for the post of web developer
-I'm very interested in learning new things
-I am proficient with
+
+My name is wm, I've graduated from the Inner Mongolia University of Technology. I majored on the Internet of Thing
+I'm confident that I am qualified for the post of web developer, I'm proficient with JavaScript, React, Redux library.
+I have over two years of experience in web development, I mainly respond to using React and Redux library to build the application that service thousands of employers, and use cocos engine to develop course software at my position.
+
+As for my character, I am a responsible and honest person. 
+I'm very interested in learning new things and working well with others
+Thank you for giving me this chance
